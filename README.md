@@ -10,7 +10,7 @@ Each file in this repository corresponds to a specific DSA topic or problem. The
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/DSA_Questions.git
+    git clone https://github.com/Rishabh-S1899/DSA_Questions.git
     ```
 2. Navigate to the directory:
     ```bash
